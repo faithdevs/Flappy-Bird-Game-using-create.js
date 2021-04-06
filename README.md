@@ -6,3 +6,4 @@
 #### Note that in many modern browsers, such as Chrome, you can’t view WebGL content by simply double clicking the HTML file and opening it in the browser. It must be served by a web server. 
 #### The python HTTP server works well for testing. Open the directory where your game is and run `python3 -m http.server` or `python -m http.server` then navigate to localhost:8000.
 ### Loading Our Assets: game.js
+game image.png
